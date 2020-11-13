@@ -11,7 +11,10 @@ html {
 }
 h1{
 	color:white;
+	
 	font-size:3rem;
+
+
 }
 .btn{
 	font-weight: 700;
@@ -36,7 +39,12 @@ hr{
 	background-color: #ee4b08;
 	border-color:#ee4b08;
 	border-width: 4px;
+
 }
 .buffer{
 	height:10rem;
+}
+.container{
+	display: flex;
+	justify-content: center;
 }
